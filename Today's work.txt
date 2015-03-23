@@ -1,0 +1,33 @@
+
+Today's Plan 
+
+Project Name : Tastydragon  App 
+
+1.City select
+i)City select Create bundle to store values 
+ii)Get selected city to area_slect class
+
+2.Area Select
+i)Create bundle to get selected city from city class
+ii)Save selected Area name into bundle 
+iii)Write custom listview for list header 
+iv)Write custom method for alphabet order and store section header 
+v)Write filter option for Area name 
+vi)Write Area List class getter setter class for header list view
+
+3.Select Cuisine
+i)Create bundle for get selected city and slected area name 
+ii)Save select cuisine into bundle 
+
+4.Profile page 
+i)Register id values 
+ii)Desing large and xlarge and small screen
+
+5.Register 
+
+
+
+
+
+
+
